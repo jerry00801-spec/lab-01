@@ -1,6 +1,6 @@
 library(tidyverse) 
 visitors <- read_csv("data/UK-visitor-numbers.csv")
-visitors %>% head(n = 2)
+#visitors %>% head(n = 2)
 
 #visitors %>% count(admission)
 #Question 1
