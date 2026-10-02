@@ -1,6 +1,6 @@
 ---
 title: "Lab 01 - UK Attractions"
-author: ""
+author: "Jerry"
 date: "`r Sys.Date()`"
 output: html_document
 ---
